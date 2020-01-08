@@ -9,8 +9,7 @@
     "themeConfig": {
       "initialColorMode": "dark"
     },
-    "separator": "-",
-    "port": 8083
+    "separator": "-"
   },
   "entries": [
     {
@@ -28,7 +27,7 @@
           {
             "slug": "certground-documentation",
             "depth": 1,
-            "value": "CertGround-Documentation"
+            "value": "CertGround ™  Documentation"
           }
         ]
       }
@@ -55,6 +54,37 @@
             "slug": "section-overview",
             "depth": 2,
             "value": "Section Overview"
+          }
+        ]
+      }
+    },
+    {
+      "key": "docs/cert-share.mdx",
+      "value": {
+        "name": "Certifcation Share",
+        "path": "/certifcation-share",
+        "id": "922735c26e1dba6db3ee42892e17cdfe",
+        "filepath": "docs/cert-share.mdx",
+        "fullpath": "/home/natac/JavaScript/Projects/certground-documentation/docs/cert-share.mdx",
+        "link": "https://github.com/pedronauck/docz/edit/master/docs/cert-share.mdx",
+        "slug": "docs-cert-share",
+        "route": "/docs-cert-share",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "certifcation-share-on-certground",
+            "depth": 1,
+            "value": "Certifcation Share on CertGround ™"
+          },
+          {
+            "slug": "qrcode-cert-share",
+            "depth": 2,
+            "value": "QRCode Cert Share"
+          },
+          {
+            "slug": "email-cert-share",
+            "depth": 2,
+            "value": "Email Cert Share"
           }
         ]
       }
