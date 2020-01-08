@@ -4,7 +4,7 @@ export default {
     initialColorMode: "dark"
   },
   repository: "https://github.com/natac13/CertGround-Documentation.git",
-  title: "CertGround™️ Documentation",
+  title: "CertGround™️ Docs",
   description:
     "Documentation for CertGround™️, a training center management webapp for the construction industry"
 };

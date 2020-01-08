@@ -1,19 +1,18 @@
 {
-  "name": "docz-example-gatsby",
+  "name": "certground-documentation",
   "private": true,
-  "description": "Example of how to integrate docz with gatsby as a theme",
-  "version": "2.0.0-rc.41",
+  "description": "Documentation for CertGround",
+  "version": "1.0.0",
   "keywords": [
-    "gatsby",
-    "docz"
+    "certground",
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pedronauck/docz/issues"
+    "url": "https://github.com/natac13/CertGround-Documentation/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pedronauck/docz.git"
+    "url": "https://github.com/natac13/CertGround-Documentation.git"
   },
   "scripts": {
     "dev": "gatsby develop",
